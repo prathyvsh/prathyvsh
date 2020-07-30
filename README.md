@@ -4,8 +4,6 @@ I am a user interface designer turned developer turned mathematician who focuses
 
 As a part of my explorations, I was lead to track the history of these subjects. I catalogue the summaries of some of these explorations:
 
-- [History of Logic](https://github.com/prathyvsh/history-of-logic)
 - [History of Lambda Calculus](https://github.com/prathyvsh/history-of-lambda-calculus)
+- [History of Logic](https://github.com/prathyvsh/history-of-logic)
 - [History of Notation](https://github.com/prathyvsh/notation)
-- [History of Science](https://github.com/prathyvsh/history-of-science)
-- [History of Philosophy](https://github.com/prathyvsh/history-of-philosophy)

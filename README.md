@@ -1,9 +1,9 @@
 ## Prathyush Pramod
 ### Interface Designer × Map Maker
 
-I am a user interface designer turned developer turned math enthusiast who focuses on [lambda calculus](https://prabros.com/lambda-calculus/), and analysis. I enjoy making cognitive maps and interfaces to understand science and philosophy so that an enthusiast can accessibly understand the lay of the land of technical subjects.
+I am a user interface designer turned developer turned math enthusiast who focuses on [lambda calculus](https://prabros.com/lambda-calculus/), and analysis. I enjoy making cognitive maps and interfaces to understand mathematics, science, and philosophy so that an enthusiast can accessibly understand the lay of the land of these technical subjects.
 
-As a part of my explorations, I was lead to track the history of these subjects. I actively catalogue some of these. Currently working on [history-of-computers](https://github.com/prathyvsh/history-of-computers)
+As a part of my explorations, I was lead to track the history of these subjects. I actively catalogue some of these. I am currently trying to sketch out the [history-of-computers](https://github.com/prathyvsh/history-of-computers)
 
 <table>
   <tr>

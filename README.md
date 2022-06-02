@@ -3,7 +3,7 @@
 
 I am a user interface designer turned developer turned math enthusiast who focuses on [lambda calculus](https://prabros.com/lambda-calculus/), and analysis. I enjoy making cognitive maps and interfaces to understand mathematics, science, and philosophy so that an enthusiast can accessibly understand the lay of the land of these technical subjects.
 
-As a part of my explorations, I was lead to track the history of these subjects. I actively catalogue some of these. I am currently trying to sketch out the [history-of-computers](https://github.com/prathyvsh/history-of-computers)
+Towards this purpose I find [category theory](https://github.com/prathyvsh/category-theory-resources) to be of much use in bringing clarity to networked knowledge. But since the ceiling of abstraction on it is so high and models so generalized, I am penning articles that introduces these ideas from a more elementary setting. Take a look at this article introducing the work horse of category theory, the [Galois connections (antitone adjunctions) in the setting of binary relations](https://patternatlas.com/v0/galois-connection).
 
 <table>
   <tr>

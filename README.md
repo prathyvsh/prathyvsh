@@ -3,7 +3,7 @@
 
 I am a user interface designer turned developer turned math enthusiast who focuses on [lambda calculus](https://prabros.com/lambda-calculus/), and analysis. I enjoy making cognitive maps and interfaces to understand mathematics, science, and philosophy so that an enthusiast can accessibly understand the lay of the land of these technical subjects.
 
-Towards this purpose I find [category theory](https://github.com/prathyvsh/category-theory-resources) to be of much use in bringing clarity to networked knowledge. But since its flooring/ceiling of abstraction is so deep/high and models range from the very specific to the highly abstract, I am penning articles introducing these ideas from an elementary setting. Take a look at this article introducing a work horse of category theory, the [Galois connections (antitone adjunctions) in the setting of binary relations](https://patternatlas.com/v0/galois-connection).
+Towards this purpose I find [category theory](https://github.com/prathyvsh/category-theory-resources) to be of great use in bringing clarity to networked knowledge. But since its flooring/ceiling of abstraction is so deep/high and models range from the very specific to the highly abstract, I am penning articles introducing these ideas from an elementary setting. Take a look at this article introducing a work horse of category theory, the [Galois connections (antitone adjunctions) in the setting of binary relations](https://patternatlas.com/v0/galois-connection).
 
 <table>
   <tr>

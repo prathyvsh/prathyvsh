@@ -1,9 +1,9 @@
 ## Prathyush Pramod
-### Interface Designer × Map Maker
+### Interface Engineer × Map Maker
 
 I am a user interface designer turned developer turned math enthusiast who focuses on [lambda calculus](https://prabros.com/lambda-calculus/), and analysis. I enjoy making cognitive maps and interfaces to understand mathematics, science, and philosophy so that an enthusiast can accessibly understand the lay of the land of these technical subjects.
 
-Towards this purpose I find [category theory](https://github.com/prathyvsh/category-theory-resources) to be of much use in bringing clarity to networked knowledge. But since the ceiling of abstraction on it is so high and models so generalized, I am penning articles that introduces these ideas from a more elementary setting. Take a look at this article introducing the work horse of category theory, the [Galois connections (antitone adjunctions) in the setting of binary relations](https://patternatlas.com/v0/galois-connection).
+Towards this purpose I find [category theory](https://github.com/prathyvsh/category-theory-resources) to be of much use in bringing clarity to networked knowledge. But since its flooring/ceiling of abstraction of it is so deep/high and models range from the very specific to the very generalized, I am penning articles introducing these ideas from a elementary setting. Take a look at this article introducing a work horse of category theory, the [Galois connections (antitone adjunctions) in the setting of binary relations](https://patternatlas.com/v0/galois-connection).
 
 <table>
   <tr>
